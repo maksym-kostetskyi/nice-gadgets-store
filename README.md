@@ -21,15 +21,14 @@ Nice Gadgets Store is a modern online shop focused on Apple products, designed t
 
 ## Features:
 
-* **Responsive Design:** Optimized for mobile (<640px), tablet (<1200px), and desktop (≥1200px) screen sizes, ensuring a consistent user experience across all devices.
+* **Responsive Design:** Optimised for mobile (<640px), tablet (<1200px), and desktop (≥1200px) screen sizes, ensuring a consistent user experience across all devices.
 * **Navigation:** Built with react-router-dom for seamless multi-page navigation and persistent URL-based parameters.
 * **Favorites & Cart:** Users can add products to favorites or shopping cart with real-time total price updates.
-* **Product Filtering:** Filter items directly within product cards by available color and capacity options.
 * **Sorting:** Sort products by criteria such as price, name, or release year.
 * **Pagination:** Navigate through large product listings, with options to select the number of items per page.
 * **Scroll to Top Button:** Instantly return to the top of any page with one click.
 * **Loader:** Visual loading indicator enhances user feedback during data fetching.
-* **Product Variants Selector:** On product pages, users can choose color and capacity combinations, dynamically updating availability and visuals.
+* **Product Variants Selector:** On product pages, users can choose color and capacity combinations, dynamically updating visuals.
 
 ## How to set up the project locally:
 
